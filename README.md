@@ -1,4 +1,4 @@
-# maven-echo-plugin
+# echo-mave-plugin
 A simple maven plugin for displaying static and dynamic text. I decided to create this plugin because I got fed up with writing ant scripts that pom files more verbose and builds slower just for simple display instructions
 
 # Goals
